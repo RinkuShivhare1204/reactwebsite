@@ -1,0 +1,76 @@
+.about-heading {
+    font-size: 40px;
+  }
+  
+  .about-container {
+    display: flex;
+    flex-direction: column;
+    margin: 14px 0 24px 0;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .about-container h1 {
+    font-size: 45px;
+    margin: 20px 0;
+  }
+  
+  /* New styles for the "Why Choose Me?" heading */
+  .about-container h2 {
+    font-size: 26px;
+    margin: 10px 0;
+  }
+  
+  /* Styles for the about-section */
+  .about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  }
+  
+  .about-highlighted-section {
+    width: 60%;
+    display: flex;
+    box-shadow: 0 4px 8px rgba(0.2, 0.2, 0.2, 0.2);
+    border-radius: 8px;
+    overflow: hidden; /* Ensure rounded corners are applied */
+  }
+  
+  .about-image {
+    flex: 1; /* Take up 50% of available space */
+    padding: 20px; /* Adjust as needed */
+  }
+  
+  .about-image img {
+    max-width: 100%;
+    border-radius: 8px; /* Optional: add border-radius for rounded corners */
+  }
+  
+  .about-description {
+    flex: 1; /* Take up 50% of available space */
+    /* padding: 0px; Adjust as needed */
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family:  monospace;
+  }
+  
+  .features {
+    margin-top: 100px;
+  }
+  
+  .features h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .features ul {
+    list-style-type: disc;
+    padding: 0 0 0 20px;
+  }
+  
+  .features li {
+    margin-bottom: 8px;
+  }
+  
