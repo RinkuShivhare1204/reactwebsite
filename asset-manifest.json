@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.689e3762.css",
+    "main.js": "/reactwebsite/static/js/main.bb2b64d1.js",
+    "static/js/787.d5fa4d18.chunk.js": "/reactwebsite/static/js/787.d5fa4d18.chunk.js",
+    "static/media/profilephoto2.jpg": "/reactwebsite/static/media/profilephoto2.d2abca528c75a2fa4b40.jpg",
+    "static/media/me2.jpg": "/reactwebsite/static/media/me2.5d567a7b28e5bbaa9ad5.jpg",
+    "static/media/profilephoto.jpg": "/reactwebsite/static/media/profilephoto.8ba1e275a2691313ffba.jpg",
+    "static/media/me.jpg": "/reactwebsite/static/media/me.18b9802aedc62b272c43.jpg",
+    "static/media/Poppins-Thin.ttf": "/reactwebsite/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/reactwebsite/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/reactwebsite/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/reactwebsite/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/reactwebsite/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/reactwebsite/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/reactwebsite/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/reactwebsite/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/daisy.jpg": "/reactwebsite/static/media/daisy.ada5d3bdc39da3c67cd8.jpg",
+    "static/media/bg.jpg": "/reactwebsite/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/reactwebsite/index.html",
+    "main.689e3762.css.map": "/reactwebsite/static/css/main.689e3762.css.map",
+    "main.bb2b64d1.js.map": "/reactwebsite/static/js/main.bb2b64d1.js.map",
+    "787.d5fa4d18.chunk.js.map": "/reactwebsite/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.689e3762.css",
+    "static/js/main.bb2b64d1.js"
+  ]
+}
